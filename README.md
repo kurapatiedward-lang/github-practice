@@ -7,3 +7,4 @@ line from Branch B
 This change is added using a pull request workflow 
 This line is from Branch B
 This line is from Branch A
+Local Conflict from Branch A
