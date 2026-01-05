@@ -9,3 +9,4 @@ This line is from Branch B
 This line is from Branch A
 Local Conflict from Branch A
 Local Conflict from Branch B
+This line is from Branch A
