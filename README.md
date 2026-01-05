@@ -5,3 +5,4 @@ This line is from feature-1 branch.
 Line from Branch A
 line from Branch B
 This change is added using a pull request workflow 
+This line is from Branch A
